@@ -1,3 +1,3 @@
 print("hello world")
-def func():
+def nwd():
     pass
