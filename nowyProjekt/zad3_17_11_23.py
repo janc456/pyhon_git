@@ -1,0 +1,1 @@
+#napisz program ktory obliczy wartosc sinusa=1 korzystajac ze wzoru sin1= 1-1/3!+1/5!+1/7!...  obliczenia wykonaj z dokladnoscia d 4 miesc po kropce dziesietnej
