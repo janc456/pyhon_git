@@ -13,3 +13,4 @@ print(0.1 - BinToFloat("0,000110011001100110011", 8 ))
 print(0.1 - BinToFloat("0,000110011001100110011", 12 ))
 print(0.1 - BinToFloat("0,000110011001100110011", 16 ))
 #wartosc dokladna x= 0,1 w systemie dziesietnym jest rowna 0,1 oblicz jaki bedzie blad przy zapisie liczby 0,1 z wykorzystaniem 8 bitow 12 bitow i 16 bitow
+#napisz program ktory obliczy wartosc sinusa=1 korzystajac ze wzoru sin1= 1-1/3!+1/5!+1/7!...  obliczenia wykonaj z dokladnoscia d 4 miesc po kropce dziesietnej
