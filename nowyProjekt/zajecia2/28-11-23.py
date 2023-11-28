@@ -3,4 +3,4 @@
 def wielomian (n):
     lista=[]
     for i in lista:
-        if i
+        if itt
