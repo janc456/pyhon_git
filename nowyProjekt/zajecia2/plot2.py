@@ -10,4 +10,4 @@ plt.plot(x,y)
 plt.plot(x,y, 'ro')
 plt.grid(color='green', linestyle='--', linewidth=1)
 plt.show()
-
+1
