@@ -16,5 +16,5 @@ for i in tmp:
     p1 = [t[0] , t[1]]
     p1 = [t[2] , t[3]]
     pkt.append(t)
-
+rg
 print(pkt)
