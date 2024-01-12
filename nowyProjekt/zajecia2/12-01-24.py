@@ -32,8 +32,11 @@ lw = []
 
 def func1 (wzorzec, tekst):
     for i in range(len(tekst)):
-
         lt.append(ord(tekst[i]))
+
+    print(sum(lt))
     for i in range(len(wzorzec)):
         lw.append(ord(wzorzec[i]))
+
+    print(sum(lw))
 print(func1(wzorzec,tekst))
